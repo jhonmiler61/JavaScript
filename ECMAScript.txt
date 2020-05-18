@@ -1,0 +1,8 @@
+Curso ECMAScript
+-----------------
+Buenas Practicas
+................
+git init
+npm init
+-> description: texto de descripción.
+-> entry point : index.js
